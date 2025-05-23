@@ -1,6 +1,4 @@
 # About
 
-This application is based on the [New Club Penguin application](https://github.com/New-Club-Penguin/NewCP-App/), which is licensed on the MIT license.
+Made from varioud other Club Penguin codes, like legacy, journey, atake, and new.
 
-# Releases
-List of releases has been moved to the [Club Penguin Atake Help Desk](https://www.fullmoon.dev/help/clubpenguinatake/article/6).
